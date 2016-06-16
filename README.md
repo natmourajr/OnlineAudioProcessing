@@ -4,12 +4,13 @@ This git is the unify the effort to online process audio in python
 
 # To run the package
 
-1 - In Junior Moura's MacBook
+In Junior Moura's MacBook
+## To activate virtualenv of audio processing (alias previous defined)
 ```
-$ bla bla
+$ audioprocessing
 ```
 
 2 - In LPS machines
 ```
-$ Bla bla
+$ ???
 ```
